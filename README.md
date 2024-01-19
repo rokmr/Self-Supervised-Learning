@@ -4,4 +4,4 @@
 3. MoCo V2:
 4. SimCLR V2:
 5. MoCo V3:
-6. A Cookbook of Self-Supervised Learning [(pdf)[https://arxiv.org/pdf/2304.12210.pdf]]
+6. A Cookbook of Self-Supervised Learning (pdf)[https://arxiv.org/pdf/2304.12210.pdf]
